@@ -1,0 +1,6 @@
+{
+  "name": "Sequential Photo Numberer",
+  "description": "Android-first photo annotation app to place sequential number stamps on photos and collages with customizable styles, non-destructive editing, and full-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
